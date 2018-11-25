@@ -1,0 +1,11 @@
+{
+comment:"this is the list which ryanaltair need, only hello world stage now"
+}
+{
+name:"chrome";
+cmd:" choco install googlechrome "
+}
+{
+name:"vscode";
+cmd:" choco install vscode"
+}
