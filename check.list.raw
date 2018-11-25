@@ -22,3 +22,17 @@ cmd:"choco install nodejs.install "
 name:"quicklook";
 cmd:"choco install quicklook"
 }
+{
+name:"shadowsocks";
+cmd:"choco install shadowsocks"
+}
+
+{
+name:"postman";
+cmd:"choco install postman "
+}
+
+{
+name:"teamviewer";
+cmd:"choco install teamviewer "
+}
