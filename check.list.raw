@@ -36,3 +36,8 @@ cmd:"choco install postman "
 name:"teamviewer";
 cmd:"choco install teamviewer "
 }
+
+{
+name:"etcher";
+cmd:" choco install etcher "
+}
