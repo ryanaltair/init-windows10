@@ -9,3 +9,16 @@ cmd:" choco install googlechrome "
 name:"vscode";
 cmd:" choco install vscode"
 }
+{
+name:"arduino";
+cmd:"choco install arduino"
+}
+{
+name:"node.js";
+cmd:"choco install nodejs.install "
+}
+
+{
+name:"quicklook";
+cmd:"choco install quicklook"
+}
